@@ -1,0 +1,30 @@
+This is the first verson of this modpack.
+
+- Added Modpack Update CHecker
+- Added London Underground Addon
+- Added London Underground Trains
+- Added Nemo's Transit Expansion
+- Added No Chat Reports
+- Added Oh The Biomes You'll Go
+- Added Reese's Sodium Options
+- Added Sodium
+- Added Sodium Extral
+- Added Star Light (Fabric)
+- Added Station Decoration
+- Added TerraBlender
+- Added Entity Texture Features
+- Added Apple Skin
+- Added Architectury API
+- Added BetterF3
+- Added Cloth Config API
+- Added CorgLib
+- Added Fabric API
+- Added GekoLib
+- Added Irish Shaders
+- Added Joban Client Mod
+- Added Konkrete
+- Added Language Reloaded
+- Added Lithium
+- Added Melody
+- Added Memory Leak Fix
+- Added Minecraft Transit Railway
